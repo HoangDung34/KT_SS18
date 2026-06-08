@@ -140,7 +140,7 @@ def find_player(player):
             print("Cầu thủ không có trong danh sách")
             continue
 
-        print(player)
+        print(played)
         return
 
 def main():
